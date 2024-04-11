@@ -1,17 +1,17 @@
-package preparation;
+package codingPractice;
 
-public class Code5 {
+public class ParanthesisChecker {
 	
-	//Question: To find Valid Parentheses (whether open paranthesis is properly closed)
+	//Question: To find Valid Parenthesis (whether open parenthesis is properly closed)
 	
 	public static void main(String[] args) {
 		
 		String paransString = "{([)}]";
 		
-		System.out.println(ParenthesesChecker(paransString));
+		System.out.println(CheckParentheses(paransString));
 	}
 	
-	public static boolean ParenthesesChecker(String paransString) {
+	public static boolean CheckParentheses(String paransString) {
 		
 		int balance = 0;
 		for (char ch: paransString.toCharArray()) {

@@ -1,6 +1,6 @@
-package preparation;
+package codingPractice;
 
-public class Code4 {
+public class LongestStringWithoutRepeatingLetters {
 	
 	//Question: To find the longest substring without repeating characters
 	

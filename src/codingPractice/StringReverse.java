@@ -1,6 +1,6 @@
-package preparation;
+package codingPractice;
 
-public class Code3 {
+public class StringReverse {
 	
 	//Question: To reverse a String without using a direct method
 	

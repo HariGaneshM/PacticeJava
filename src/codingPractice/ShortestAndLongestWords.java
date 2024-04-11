@@ -1,6 +1,6 @@
-package preparation;
+package codingPractice;
 
-public class Code2 {
+public class ShortestAndLongestWords {
 
 	//Question: To find Shortest and Longest Words in a String
 	

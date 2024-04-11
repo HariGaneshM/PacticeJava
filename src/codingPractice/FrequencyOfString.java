@@ -1,6 +1,6 @@
-package preparation;
+package codingPractice;
 
-public class Code1 { 
+public class FrequencyOfString { 
 	
 	//Question: To find the frequency of one string in another string
 
